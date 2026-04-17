@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\luis.saucedo\\source\\repos\\TaskManager\\",
+  "WorkspaceRootPath": "C:\\Users\\luis.saucedo\\source\\repos\\TaskManagerRepo\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA2B91C2-75BB-4D26-813D-87D383938EB4}|TaskManager\\TaskManager.csproj|c:\\users\\luis.saucedo\\source\\repos\\taskmanager\\taskmanager\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA2B91C2-75BB-4D26-813D-87D383938EB4}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBC5C6EB-A249-AFF4-6779-A3EB98273C24}|TaskManager\\TaskManager.csproj|c:\\users\\luis.saucedo\\source\\repos\\taskmanagerrepo\\backend\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC5C6EB-A249-AFF4-6779-A3EB98273C24}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA2B91C2-75BB-4D26-813D-87D383938EB4}|TaskManager\\TaskManager.csproj|c:\\users\\luis.saucedo\\source\\repos\\taskmanager\\taskmanager\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA2B91C2-75BB-4D26-813D-87D383938EB4}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBC5C6EB-A249-AFF4-6779-A3EB98273C24}|TaskManager\\TaskManager.csproj|c:\\users\\luis.saucedo\\source\\repos\\taskmanagerrepo\\backend\\taskmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBC5C6EB-A249-AFF4-6779-A3EB98273C24}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA2B91C2-75BB-4D26-813D-87D383938EB4}|TaskManager\\TaskManager.csproj|c:\\users\\luis.saucedo\\source\\repos\\taskmanager\\taskmanager\\dtos\\taskdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA2B91C2-75BB-4D26-813D-87D383938EB4}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\dtos\\taskdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBC5C6EB-A249-AFF4-6779-A3EB98273C24}|TaskManager\\TaskManager.csproj|c:\\users\\luis.saucedo\\source\\repos\\taskmanagerrepo\\backend\\taskmanager\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC5C6EB-A249-AFF4-6779-A3EB98273C24}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA2B91C2-75BB-4D26-813D-87D383938EB4}|TaskManager\\TaskManager.csproj|c:\\users\\luis.saucedo\\source\\repos\\taskmanager\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA2B91C2-75BB-4D26-813D-87D383938EB4}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBC5C6EB-A249-AFF4-6779-A3EB98273C24}|TaskManager\\TaskManager.csproj|c:\\users\\luis.saucedo\\source\\repos\\taskmanagerrepo\\backend\\taskmanager\\dtos\\taskdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC5C6EB-A249-AFF4-6779-A3EB98273C24}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\dtos\\taskdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC5C6EB-A249-AFF4-6779-A3EB98273C24}|TaskManager\\TaskManager.csproj|c:\\users\\luis.saucedo\\source\\repos\\taskmanagerrepo\\backend\\taskmanager\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC5C6EB-A249-AFF4-6779-A3EB98273C24}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +30,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\luis.saucedo\\source\\repos\\TaskManagerRepo\\backend\\TaskManager\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\luis.saucedo\\source\\repos\\TaskManagerRepo\\backend\\TaskManager\\appsettings.json",
+              "RelativeToolTip": "TaskManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-17T21:24:09.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TaskDTOs.cs",
-              "DocumentMoniker": "C:\\Users\\luis.saucedo\\source\\repos\\TaskManager\\TaskManager\\DTOs\\TaskDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\luis.saucedo\\source\\repos\\TaskManagerRepo\\backend\\TaskManager\\DTOs\\TaskDTOs.cs",
               "RelativeDocumentMoniker": "TaskManager\\DTOs\\TaskDTOs.cs",
-              "ToolTip": "C:\\Users\\luis.saucedo\\source\\repos\\TaskManager\\TaskManager\\DTOs\\TaskDTOs.cs",
+              "ToolTip": "C:\\Users\\luis.saucedo\\source\\repos\\TaskManagerRepo\\backend\\TaskManager\\DTOs\\TaskDTOs.cs",
               "RelativeToolTip": "TaskManager\\DTOs\\TaskDTOs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T20:25:13.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-17T20:25:13.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "TaskService.cs",
-              "DocumentMoniker": "C:\\Users\\luis.saucedo\\source\\repos\\TaskManager\\TaskManager\\Services\\TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\luis.saucedo\\source\\repos\\TaskManagerRepo\\backend\\TaskManager\\Services\\TaskService.cs",
               "RelativeDocumentMoniker": "TaskManager\\Services\\TaskService.cs",
-              "ToolTip": "C:\\Users\\luis.saucedo\\source\\repos\\TaskManager\\TaskManager\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\luis.saucedo\\source\\repos\\TaskManagerRepo\\backend\\TaskManager\\Services\\TaskService.cs",
               "RelativeToolTip": "TaskManager\\Services\\TaskService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T20:01:33.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-17T20:01:33.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TasksController.cs",
-              "DocumentMoniker": "C:\\Users\\luis.saucedo\\source\\repos\\TaskManager\\TaskManager\\Controllers\\TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\luis.saucedo\\source\\repos\\TaskManagerRepo\\backend\\TaskManager\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "TaskManager\\Controllers\\TasksController.cs",
-              "ToolTip": "C:\\Users\\luis.saucedo\\source\\repos\\TaskManager\\TaskManager\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\luis.saucedo\\source\\repos\\TaskManagerRepo\\backend\\TaskManager\\Controllers\\TasksController.cs",
               "RelativeToolTip": "TaskManager\\Controllers\\TasksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-17T20:01:23.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\luis.saucedo\\source\\repos\\TaskManager\\TaskManager\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\luis.saucedo\\source\\repos\\TaskManagerRepo\\backend\\TaskManager\\Program.cs",
               "RelativeDocumentMoniker": "TaskManager\\Program.cs",
-              "ToolTip": "C:\\Users\\luis.saucedo\\source\\repos\\TaskManager\\TaskManager\\Program.cs",
+              "ToolTip": "C:\\Users\\luis.saucedo\\source\\repos\\TaskManagerRepo\\backend\\TaskManager\\Program.cs",
               "RelativeToolTip": "TaskManager\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-17T19:59:18.815Z",
               "EditorCaption": ""
