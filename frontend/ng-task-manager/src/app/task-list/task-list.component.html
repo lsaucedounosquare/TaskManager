@@ -1,0 +1,28 @@
+<h2>Tasks</h2>
+
+<select (change)="filter($event)">
+  <option value="">All</option>
+  <option value="0">Todo</option>
+  <option value="1">In Progress</option>
+  <option value="2">Done</option>
+</select>
+
+@if (taskService.loading()) {
+  <p>Loading...</p>
+}
+
+@if (taskService.tasks().length === 0 && !taskService.loading()) {
+  <p>No tasks found</p>
+}
+
+<ul>
+  @for (task of taskService.tasks(); track task.id) {
+    <li>
+      <strong>{{ task.title }}</strong>
+      - {{ task.status }}
+
+      <button (click)="edit(task.id)">Edit</button>
+      <button (click)="delete(task.id)">Delete</button>
+    </li>
+  }
+</ul>
