@@ -5,7 +5,7 @@ import { tap } from 'rxjs';
 
 @Injectable({ providedIn: 'root' })
 export class TaskService {
-  private baseUrl = 'https://localhost:7090/api/tasks';
+  private baseUrl = 'http://localhost:5206/api/tasks';
 
   tasks = signal<TaskItem[]>([]);
   loading = signal(false);
