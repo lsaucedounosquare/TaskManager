@@ -318,7 +318,6 @@ C:\Users\luis.saucedo\source\repos\TaskManagerRepo\backend\TaskManager\obj\Debug
 C:\Users\luis.saucedo\source\repos\TaskManagerRepo\backend\TaskManager\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\luis.saucedo\source\repos\TaskManagerRepo\backend\TaskManager\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\luis.saucedo\source\repos\TaskManagerRepo\backend\TaskManager\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\luis.saucedo\source\repos\TaskManagerRepo\backend\TaskManager\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\luis.saucedo\source\repos\TaskManagerRepo\backend\TaskManager\obj\Debug\net10.0\TaskMana.F3FB485A.Up2Date
 C:\Users\luis.saucedo\source\repos\TaskManagerRepo\backend\TaskManager\obj\Debug\net10.0\TaskManager.dll
 C:\Users\luis.saucedo\source\repos\TaskManagerRepo\backend\TaskManager\obj\Debug\net10.0\refint\TaskManager.dll
